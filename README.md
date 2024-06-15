@@ -1,7 +1,7 @@
 # Pampos
 Papmos is an AI-powered Telegram chatbot that assists users with BTC to USDT trading by providing insightful recommendations and educational content.
 
-# Key Features:
+<h3> Key Features:</h3>
 Historical Data Price Analysis:
 Fetches BTC to USDT prices using Binance open API.
 Calculates potential profits for 1 day, 1 week, current month, and last month.
